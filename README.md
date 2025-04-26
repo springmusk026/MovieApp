@@ -153,7 +153,7 @@ app/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MovieApp.git
+git clone https://github.com/springmusk026/MovieApp
 ```
 
 2. Open the project in Android Studio
